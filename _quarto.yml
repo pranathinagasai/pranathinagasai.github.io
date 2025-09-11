@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "Pranathi's Portfolio Website" 
@@ -9,6 +10,7 @@ website:
         text: Home
       - href: about.qmd
         text: About
+        
 
 
 
