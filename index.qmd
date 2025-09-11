@@ -1,7 +1,11 @@
 ---
-title: "Pranathi's Portfolio"
+---
+title: "Home"
+format: html
 ---
 
-This is a Quarto website.
+# Welcome 👋
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Hi, I’m **Pranathi Nagasai**.
+
+This site is my portfolio for **AD 688 Web Analytics**. Use the menu to visit other pages.

@@ -1,5 +1,17 @@
 ---
+---
 title: "About"
+format: html
 ---
 
-About this site
+# About Me
+
+Hello! 👋 My name is **Pranathi Nagasai**.  
+
+I’m a graduate student at **Boston University**, currently taking  
+**AD 688 Web Analytics**.  
+
+This website is my portfolio where I will share my assignments,  
+projects, and learning progress.  
+
+Thanks for visiting!

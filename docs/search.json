@@ -2,15 +2,15 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Pranathi’s Portfolio",
+    "title": "Home",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "title: “Home” format: html —\n\nWelcome 👋\nHi, I’m Pranathi Nagasai.\nThis site is my portfolio for AD 688 Web Analytics. Use the menu to visit other pages."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site"
+    "text": "title: “About” format: html —\n\nAbout Me\nHello! 👋 My name is Pranathi Nagasai.\nI’m a graduate student at Boston University, currently taking\nAD 688 Web Analytics.\nThis website is my portfolio where I will share my assignments,\nprojects, and learning progress.\nThanks for visiting!"
   }
 ]
