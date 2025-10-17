@@ -1,23 +1,27 @@
 ---
 title: "Pranathi Nagasai Andhe"
-subtitle: "International Trade Development | MSME Competitiveness | Business Analytics"
+subtitle: "Trade Development and Financial Analytics Consultant"
 ---
 
 ## Welcome!
 
-I'm a data-driven professional pursuing a Double Master's in **International Trade & Finance** and **Business Analytics**, with expertise in research, MSME competitiveness, and technical cooperation.
+I'm a data-driven professional with **project management experience across Europe and Asia**, pursuing a Double Master's in **International Trade & Finance** and **Business Analytics**.
 
 ### What I Do
 
-- **Data Analysis & Visualization**: Power BI, Python, R, Excel
-- **Research & Documentation**: Trade policy, SME development, market analysis
-- **Project Management**: Capacity building, stakeholder engagement
-- **Technical Skills**: SAP, Salesforce, SharePoint, Financial Modeling
+- **Data Analysis & Programming**: Python, R, SQL, Power BI, Cloud Analytics
+- **Financial Analytics**: Tech Finance Analytics, Financial Modeling, Risk Management
+- **Research & Documentation**: Trade policy, SME development, international relations, market analysis
+- **Project Management**: Capacity building, stakeholder engagement, strategic communications
+
+### Connect With Me
+
+🔗 [LinkedIn](https://www.linkedin.com/in/a-pranathi-nagasai1) | 💻 [GitHub](https://github.com/pranathinagasai) | 📧 [Email](mailto:pranathisai3@gmail.com)
 
 ### Current Focus
 
 🎓 Completing MSc Applied Business Analytics at Boston University
 
-🔍 Specializing in financial modeling, risk management, and market data analysis
+📊 Financial Analytics Consultant at Open Avenue (New York Based)
 
-🌍 Experience across UN system, government projects, and international NGOs
+🌍 Project Management Experience across UN system, government projects, and international NGOs in Europe and Asia

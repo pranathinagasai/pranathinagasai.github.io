@@ -4,14 +4,16 @@ title: "About Me"
 
 ## Professional Background
 
-I am pursuing a **Double Master's degree** in International Trade & Finance (International Institute in Geneva) and Applied Business Analytics (Boston University). My career spans research, documentation, SME competitiveness, and technical cooperation across multicultural environments including the UN system.
+I am a **Trade Development and Financial Analytics Consultant** with project management experience across Europe and Asia. Currently pursuing a Double Master's degree in International Trade & Finance (International Institute in Geneva) and Applied Business Analytics (Boston University).
+
+**Current Role**: Financial Analytics Consultant at **Open Avenue**, a New York-based firm specializing in Tech Finance Analytics.
 
 ## Education
 
 ### MSc Applied Business Analytics
 **Boston University** | 2024 - 2025 | Boston, USA
 
-Focus: Financial Modelling, Risk Management, Market Data, Python, R, Power BI
+Focus: Financial Modelling, Risk Management, Market Data, Python, R, Power BI, Cloud Analytics
 
 ### Masters in International Trade & Finance
 **International Institute in Geneva** | 2023 - 2024 | Geneva, Switzerland
@@ -25,9 +27,15 @@ GPA: 3.3
 
 ## Key Skills
 
-- **Data Analysis**: Power BI, Python, R, Excel, SAP
-- **Business Tools**: Salesforce, SharePoint, MS Office
-- **Research & Analytics**: Market analysis, trade policy research, financial modeling
+### Programming & Analytics
+- **Programming Languages**: Python, R, SQL
+- **Data Visualization**: Power BI, Cloud Analytics
+- **Financial Analytics**: Tech Finance Analytics, Financial Modeling, Risk Management
+
+### Business & Strategy
+- **International Relations**: Trade policy research, diplomatic coordination
+- **Strategic Communications**: Stakeholder engagement, policy briefs
+- **Project Management**: Capacity building across Europe and Asia
 
 ## Languages
 
