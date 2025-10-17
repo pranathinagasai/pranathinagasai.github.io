@@ -1,0 +1,7 @@
+<script>
+(function() {
+  const html = document.documentElement;
+  const currentTheme = localStorage.getItem('theme') || 'light';
+  html.setAttribute('data-theme', currentTheme);
+})();
+</script>
