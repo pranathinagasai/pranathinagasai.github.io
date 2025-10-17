@@ -4,11 +4,20 @@ project:
 
 website:
   title: "Pranathi Nagasai Andhe"
+  navbar:
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "About"
+        href: about.qmd
+      - text: "Projects"
+        href: projects.qmd
+      - text: "CV"
+        href: cv.qmd
+      - text: "Contact"
+        href: contact.qmd
 
 format:
   html:
-    theme: none
-    css: modern-style.css
-    include-after-body:
-      - text: |
-          <script src="theme-toggle.js"></script>
+    theme: cosmo
+    css: styles.css

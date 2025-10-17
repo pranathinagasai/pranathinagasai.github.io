@@ -20,169 +20,173 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-.display.math{display: block; text-align: center; margin: 0.5rem auto;}
 </style>
 
 
+<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/quarto-nav/headroom.min.js"></script>
 <script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-html/tabby.min.js"></script>
+<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="site_libs/quarto-search/fuse.min.js"></script>
+<script src="site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="./">
+<script src="site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/light-border.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-html-734cb40618f438257b19a1e532635a32.min.css" rel="stylesheet" append-hash="true" data-mode="light">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-dc55a5b9e770e841cd82e46aadbfb9b0.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap-56309892f1c796412271d97dce1f9b6b.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
 
 
-<link rel="stylesheet" href="modern-style.css">
+<link rel="stylesheet" href="styles.css">
 </head>
 
-<body>
+<body class="nav-fixed fullcontent quarto-light">
 
-
-<header id="title-block-header">
-<h1 class="title">Pranathi Nagasai Andhe</h1>
-
-</header>
-
-
-&lt;!DOCTYPE html&gt;
-
-
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>
-Pranathi Nagasai - Portfolio
-</title>
-<link rel="stylesheet" href="modern-style.css">
-
-
-<!-- Navigation -->
-<nav class="navbar">
-<div class="nav-container">
-<pre><code>        &lt;div class="logo"&gt;Pranathi&lt;/div&gt;
-        &lt;ul class="nav-menu"&gt;
-            &lt;li&gt;&lt;a href="#home" class="active"&gt;Home&lt;/a&gt;&lt;/li&gt;
-            &lt;li&gt;&lt;a href="about.html"&gt;About&lt;/a&gt;&lt;/li&gt;
-            &lt;li&gt;&lt;a href="#experience"&gt;Experience&lt;/a&gt;&lt;/li&gt;
-            &lt;li&gt;&lt;a href="#skills"&gt;Skills&lt;/a&gt;&lt;/li&gt;
-            &lt;li&gt;&lt;a href="projects.html"&gt;Projects&lt;/a&gt;&lt;/li&gt;
-            &lt;li&gt;&lt;a href="contact.html"&gt;Contact&lt;/a&gt;&lt;/li&gt;
-        &lt;/ul&gt;
-        &lt;button class="theme-toggle" id="themeToggle"&gt;🌙&lt;/button&gt;
-    &lt;/div&gt;
-&lt;/nav&gt;
-
-&lt;!-- Hero Section --&gt;
-&lt;section class="hero" id="home"&gt;
-    &lt;div class="hero-container"&gt;
-        &lt;div class="hero-content"&gt;
-            &lt;h1 class="hero-title"&gt;Hi, I'm Pranathi&lt;/h1&gt;
-            &lt;div class="emoji-row"&gt;
-                💻 📊 🎨 🧠 ❤️
-            &lt;/div&gt;
-            &lt;p class="hero-subtitle"&gt;Trade Development | Financial Analytics | Project Management&lt;/p&gt;
-            &lt;p class="hero-description"&gt;Experience across Europe &amp; Asia&lt;/p&gt;
-            &lt;a href="contact.html" class="cta-button"&gt;Contact →&lt;/a&gt;
-            
-            &lt;div class="social-links"&gt;
-                &lt;a href="https://www.linkedin.com/in/a-pranathi-nagasai1" target="_blank"&gt;
-                    &lt;svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor"&gt;
-                        &lt;path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z"/&gt;
-                    &lt;/svg&gt;
-                &lt;/a&gt;
-                &lt;a href="https://github.com/pranathinagasai" target="_blank"&gt;
-                    &lt;svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor"&gt;
-                        &lt;path d="M12 0c-6.626 0-12 5.373-12 12 0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.983-.399 3.003-.404 1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576 4.765-1.589 8.199-6.086 8.199-11.386 0-6.627-5.373-12-12-12z"/&gt;
-                    &lt;/svg&gt;
-                &lt;/a&gt;
-            &lt;/div&gt;
-        &lt;/div&gt;
-        &lt;div class="hero-image"&gt;
-            &lt;img src="profile.jpg" alt="Pranathi Nagasai" class="profile-img"&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-&lt;/section&gt;
-
-&lt;!-- About Stats Section --&gt;
-&lt;section class="stats-section"&gt;
-    &lt;div class="container"&gt;
-        &lt;div class="stats-grid"&gt;
-            &lt;div class="stat-card"&gt;
-                &lt;h2 class="stat-number"&gt;05+&lt;/h2&gt;
-                &lt;p class="stat-label"&gt;Years Experience&lt;/p&gt;
-            &lt;/div&gt;
-            &lt;div class="stat-card"&gt;
-                &lt;h2 class="stat-number"&gt;15+&lt;/h2&gt;
-                &lt;p class="stat-label"&gt;Projects&lt;/p&gt;
-            &lt;/div&gt;
-            &lt;div class="stat-card"&gt;
-                &lt;h2 class="stat-number"&gt;10+&lt;/h2&gt;
-                &lt;p class="stat-label"&gt;Organizations&lt;/p&gt;
-            &lt;/div&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-&lt;/section&gt;
-
-&lt;!-- Experience Timeline --&gt;
-&lt;section class="timeline-section" id="experience"&gt;
-    &lt;div class="container"&gt;
-        &lt;div class="section-header"&gt;
-            &lt;button class="tab-btn active"&gt;💼 Professional&lt;/button&gt;
-            &lt;button class="tab-btn"&gt;🎓 Academic&lt;/button&gt;
-        &lt;/div&gt;
-        
-        &lt;div class="timeline"&gt;
-            &lt;div class="timeline-item"&gt;
-                &lt;div class="timeline-dot"&gt;&lt;/div&gt;
-                &lt;div class="timeline-content"&gt;
-                    &lt;h3&gt;Financial Analytics Consultant&lt;/h3&gt;
-                    &lt;p class="company"&gt;Open Avenue (New York Based)&lt;/p&gt;
-                    &lt;p class="duration"&gt;📅 Present&lt;/p&gt;
-                &lt;/div&gt;
-            &lt;/div&gt;
-            
-            &lt;div class="timeline-item"&gt;
-                &lt;div class="timeline-dot"&gt;&lt;/div&gt;
-                &lt;div class="timeline-content"&gt;
-                    &lt;h3&gt;Research &amp; Program Support Assistant&lt;/h3&gt;
-                    &lt;p class="company"&gt;International Institute in Geneva&lt;/p&gt;
-                    &lt;p class="duration"&gt;📅 Sep 2023 - Sep 2024&lt;/p&gt;
-                &lt;/div&gt;
-            &lt;/div&gt;
-            
-            &lt;div class="timeline-item"&gt;
-                &lt;div class="timeline-dot"&gt;&lt;/div&gt;
-                &lt;div class="timeline-content"&gt;
-                    &lt;h3&gt;Intern&lt;/h3&gt;
-                    &lt;p class="company"&gt;Permanent Mission of India to UN&lt;/p&gt;
-                    &lt;p class="duration"&gt;📅 Jan 2024 - Jun 2024&lt;/p&gt;
-                &lt;/div&gt;
-            &lt;/div&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-&lt;/section&gt;
-
-&lt;script src="theme-toggle.js"&gt;&lt;/script&gt;</code></pre>
-
-
-
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a href="./index.html" class="navbar-brand navbar-brand-logo">
+    </a>
+    <a class="navbar-brand" href="./index.html">
+    <span class="navbar-title">Pranathi Nagasai Andhe</span>
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link active" href="./index.html" aria-current="page"> 
+<span class="menu-text">Home</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./about.html"> 
+<span class="menu-text">About</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./projects.html"> 
+<span class="menu-text">Projects</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./cv.html"> 
+<span class="menu-text">CV</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./contact.html"> 
+<span class="menu-text">Contact</span></a>
+  </li>  
+</ul>
+          </div> <!-- /navcollapse -->
+            <div class="quarto-navbar-tools">
 </div>
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    
+<!-- main -->
+<div class="quarto-about-jolla">
+  <img src="profile.jpg" class="about-image
+  round " style="height: 15em; width: 15em;">
+ <header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Pranathi Nagasai Andhe</h1>
+<p class="subtitle lead">Trade Development and Financial Analytics Consultant</p>
+</div>
+<div class="quarto-title-meta">
+  </div>
+</header><main class="content" id="quarto-document-content">
+<section id="welcome" class="level2">
+<h2 data-anchor-id="welcome">Welcome! 👋</h2>
+<p>I’m a data-driven professional with <strong>project management experience across Europe and Asia</strong>, pursuing a Double Master’s in <strong>International Trade &amp; Finance</strong> and <strong>Business Analytics</strong>.</p>
+<section id="what-i-do" class="level3">
+<h3 data-anchor-id="what-i-do">What I Do 💼</h3>
+<section id="data-analysis-programming" class="level4">
+<h4 data-anchor-id="data-analysis-programming">📊 Data Analysis &amp; Programming</h4>
+<p>Python, R, SQL, Power BI, Cloud Analytics</p>
+</section>
+<section id="financial-analytics" class="level4">
+<h4 data-anchor-id="financial-analytics">💰 Financial Analytics</h4>
+<p>Tech Finance Analytics, Financial Modeling, Risk Management</p>
+</section>
+<section id="research-international-relations" class="level4">
+<h4 data-anchor-id="research-international-relations">🌍 Research &amp; International Relations</h4>
+<p>Trade policy, SME development, international relations, market analysis</p>
+</section>
+<section id="project-management" class="level4">
+<h4 data-anchor-id="project-management">🎯 Project Management</h4>
+<p>Capacity building, stakeholder engagement, strategic communications</p>
+<hr>
+</section>
+</section>
+<section id="current-focus" class="level3">
+<h3 data-anchor-id="current-focus">Current Focus 🎓</h3>
+<p><strong>📚 Education</strong>: MSc Applied Business Analytics at Boston University</p>
+<p><strong>💼 Role</strong>: Financial Analytics Consultant at Open Avenue (New York Based)</p>
+<p><strong>🌐 Experience</strong>: Project Management across UN system, government projects, and international NGOs in Europe and Asia</p>
 
+
+</section>
+</section>
+</main> 
+  <hr class="about-sep">
+   <div class="about-links">
+  <a href="https://www.linkedin.com/in/a-pranathi-nagasai1" class="about-link" rel="" target="">
+    <i class="bi bi-linkedin"></i>
+     <span class="about-link-text">LinkedIn</span>
+  </a>
+  <a href="https://github.com/pranathinagasai" class="about-link" rel="" target="">
+    <i class="bi bi-github"></i>
+     <span class="about-link-text">GitHub</span>
+  </a>
+  <a href="mailto:pranathisai3@gmail.com" class="about-link" rel="" target="">
+    <i class="bi bi-envelope"></i>
+     <span class="about-link-text">Email</span>
+  </a>
+</div>
+</div>
+ <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
-    const tabsets =  window.document.querySelectorAll(".panel-tabset-tabby")
-    tabsets.forEach(function(tabset) {
-      const tabby = new Tabby('#' + tabset.id);
-    });
-    const icon = "";
-    const anchorJS = new window.AnchorJS();
-    anchorJS.options = {
-      placement: 'right',
-      icon: icon
-    };
-    anchorJS.add('.anchored');
     const isCodeAnnotation = (el) => {
       for (const clz of el.classList) {
         if (clz.startsWith('code-annotation-')) {                     
@@ -274,7 +278,7 @@ Pranathi Nagasai - Portfolio
         },
         interactive: true,
         interactiveBorder: 10,
-        theme: 'light-border',
+        theme: 'quarto',
         placement: 'bottom-start',
       };
       if (contentFn) {
@@ -574,9 +578,9 @@ Pranathi Nagasai - Portfolio
     }
   });
   </script>
-<script src="theme-toggle.js"></script>
+</div> <!-- /content -->
 
 
 
 
-</nav></body></html>
+</body></html>
