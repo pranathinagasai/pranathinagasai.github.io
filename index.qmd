@@ -3,7 +3,8 @@ title: "Pranathi Nagasai Andhe"
 subtitle: "Trade Development and Financial Analytics Consultant"
 image: profile.jpg
 about:
-  template: jolla
+  template: trestles
+  image-width: 15em
   image-shape: round
   links:
     - icon: linkedin
@@ -21,19 +22,33 @@ about:
 
 I'm a data-driven professional with **project management experience across Europe and Asia**, pursuing a Double Master's in **International Trade & Finance** and **Business Analytics**.
 
+---
+
 ### What I Do 💼
 
+::: {.grid}
+
+::: {.g-col-6}
 #### 📊 Data Analysis & Programming
 Python, R, SQL, Power BI, Cloud Analytics
+:::
 
+::: {.g-col-6}
 #### 💰 Financial Analytics
 Tech Finance Analytics, Financial Modeling, Risk Management
+:::
 
+::: {.g-col-6}
 #### 🌍 Research & International Relations
-Trade policy, SME development, international relations, market analysis
+Trade policy, SME development, international relations
+:::
 
+::: {.g-col-6}
 #### 🎯 Project Management
 Capacity building, stakeholder engagement, strategic communications
+:::
+
+:::
 
 ---
 
