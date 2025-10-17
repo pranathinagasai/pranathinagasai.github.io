@@ -193,6 +193,60 @@ ul.task-list li input[type="checkbox"] {
 </section>
 
 </main> <!-- /main -->
+<style>
+.theme-toggle-btn {
+  position: fixed;
+  bottom: 2rem;
+  right: 2rem;
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  background: var(--accent);
+  border: none;
+  color: white;
+  font-size: 1.5rem;
+  cursor: pointer;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+  z-index: 1000;
+  transition: all 0.3s ease;
+}
+
+.theme-toggle-btn:hover {
+  transform: scale(1.1) rotate(20deg);
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.4);
+}
+</style>
+
+<button class="theme-toggle-btn" id="themeToggle" title="Toggle theme">🌙</button>
+
+<script>
+(function() {
+  const html = document.documentElement;
+  const themeToggle = document.getElementById('themeToggle');
+  
+  // Check for saved theme or default to light
+  const currentTheme = localStorage.getItem('theme') || 'light';
+  html.setAttribute('data-theme', currentTheme);
+  
+  // Update button icon
+  function updateIcon() {
+    const theme = html.getAttribute('data-theme');
+    themeToggle.textContent = theme === 'dark' ? '☀️' : '🌙';
+  }
+  
+  updateIcon();
+  
+  // Toggle theme on click
+  themeToggle.addEventListener('click', () => {
+    const currentTheme = html.getAttribute('data-theme');
+    const newTheme = currentTheme === 'light' ? 'dark' : 'light';
+    
+    html.setAttribute('data-theme', newTheme);
+    localStorage.setItem('theme', newTheme);
+    updateIcon();
+  });
+})();
+</script>
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
