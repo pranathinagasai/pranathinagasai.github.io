@@ -1,17 +1,48 @@
 ---
----
-title: "About"
-format: html
+title: "About Me"
 ---
 
-# About Me
+## Professional Background
 
-Hello! 👋 My name is **Pranathi Nagasai**.  
+I am pursuing a **Double Master's degree** in International Trade & Finance (International Institute in Geneva) and Applied Business Analytics (Boston University). My career spans research, documentation, SME competitiveness, and technical cooperation across multicultural environments including the UN system.
 
-I’m a graduate student at **Boston University**, currently taking  
-**AD 688 Web Analytics**.  
+## Education
 
-This website is my portfolio where I will share my assignments,  
-projects, and learning progress.  
+### MSc Applied Business Analytics
+**Boston University** | 2024 - 2025 | Boston, USA
 
-Thanks for visiting!
+Focus: Financial Modelling, Risk Management, Market Data, Python, R, Power BI
+
+### Masters in International Trade & Finance
+**International Institute in Geneva** | 2023 - 2024 | Geneva, Switzerland
+
+GPA: 3.4
+
+### Bachelors of Business Administration
+**Sri Sri University** | 2017 - 2020 | Odisha, India
+
+GPA: 3.3
+
+## Key Skills
+
+- **Data Analysis**: Power BI, Python, R, Excel, SAP
+- **Business Tools**: Salesforce, SharePoint, MS Office
+- **Research & Analytics**: Market analysis, trade policy research, financial modeling
+
+## Languages
+
+- English (Fluent)
+- French (Intermediate)
+- Russian (Basic)
+
+## Key Achievements
+
+✨ Increased rural women income by 60% through MSME operations - Government of India
+
+🌍 Youth Representative at UNDP Reason for Hope Conference 2024, Geneva
+
+🏆 Recognised 3× International MUN Awards
+
+📊 Delivered 95% reduction in open defecation through WASH programmes
+
+💰 Secured INR 1M+ multi-source funding for Training Programs

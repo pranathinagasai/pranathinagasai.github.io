@@ -1,11 +1,23 @@
 ---
+title: "Pranathi Nagasai Andhe"
+subtitle: "International Trade Development | MSME Competitiveness | Business Analytics"
 ---
-title: "Home"
-format: html
----
 
-# Welcome 👋
+## Welcome!
 
-Hi, I’m **Pranathi Nagasai**.
+I'm a data-driven professional pursuing a Double Master's in **International Trade & Finance** and **Business Analytics**, with expertise in research, MSME competitiveness, and technical cooperation.
 
-This site is my portfolio for **AD 688 Web Analytics**. Use the menu to visit other pages.
+### What I Do
+
+- **Data Analysis & Visualization**: Power BI, Python, R, Excel
+- **Research & Documentation**: Trade policy, SME development, market analysis
+- **Project Management**: Capacity building, stakeholder engagement
+- **Technical Skills**: SAP, Salesforce, SharePoint, Financial Modeling
+
+### Current Focus
+
+🎓 Completing MSc Applied Business Analytics at Boston University
+
+🔍 Specializing in financial modeling, risk management, and market data analysis
+
+🌍 Experience across UN system, government projects, and international NGOs

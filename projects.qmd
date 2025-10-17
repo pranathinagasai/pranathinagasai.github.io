@@ -2,6 +2,64 @@
 title: "Projects"
 ---
 
-# Featured Analytics Projects
+## Data Analytics Projects
 
-Coming soon…
+### Job Market Analysis 2024: Gender Disparities in Hiring & Political Influence
+
+**Tools Used**: Python, Power BI, Excel
+
+**Overview**: Conducted comprehensive analysis of 2024 job market trends, focusing on gender disparities in hiring practices and the influence of political factors on employment patterns.
+
+**Key Findings**:
+- Analyzed hiring patterns across multiple industries and demographics
+- Identified significant gender gaps in specific sectors
+- Examined correlation between political factors and hiring decisions
+- Developed interactive visualizations to communicate insights
+
+**Impact**: Provided data-driven insights for policy recommendations on equitable hiring practices.
+
+---
+
+### NYC Live Real Estate Market Analysis for Investment Decisions
+
+**Tools Used**: Python, R, Power BI, Excel
+
+**Overview**: Real-time analysis of New York City real estate market to support investment decision-making through data-driven insights.
+
+**Key Components**:
+- Market trend analysis across NYC boroughs
+- Price prediction modeling using historical data
+- ROI calculations for different property types
+- Risk assessment and investment recommendations
+- Interactive dashboards for stakeholder presentation
+
+**Outcomes**:
+- Developed predictive models with high accuracy for property valuation
+- Created comprehensive investment guides for different risk profiles
+- Identified emerging neighborhoods with high growth potential
+
+---
+
+## Professional Projects
+
+### MSME Competitiveness Enhancement
+**Organization**: International Institute in Geneva
+
+Supported research and program development for SME competitiveness, quality infrastructure, and market access initiatives.
+
+### Rural Women Economic Empowerment
+**Organization**: Government of India - NSS
+
+**Achievement**: Increased rural women income by 60% through MSME operations
+
+- Led training programs for 500+ rural women
+- Secured INR 1,000,000 in funding
+- Coordinated enrollment and program materials
+
+### WASH-linked Education Programme
+**Organization**: The Art of Living Foundation
+
+**Impact**: Delivered 95% reduction in open defecation through integrated education programs
+
+- Coordinated capacity building across 6 EU countries and 12 Indian states
+- Organized large-scale training events and workshops

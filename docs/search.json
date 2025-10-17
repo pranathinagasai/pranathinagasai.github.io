@@ -1,23 +1,121 @@
 [
   {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact Me",
+    "section": "",
+    "text": "pranathisai3@gmail.com\n\n\n\n+41 78 267 3089\n\n\n\nGeneva, Switzerland"
+  },
+  {
+    "objectID": "contact.html#get-in-touch",
+    "href": "contact.html#get-in-touch",
+    "title": "Contact Me",
+    "section": "",
+    "text": "pranathisai3@gmail.com\n\n\n\n+41 78 267 3089\n\n\n\nGeneva, Switzerland"
+  },
+  {
+    "objectID": "contact.html#connect",
+    "href": "contact.html#connect",
+    "title": "Contact Me",
+    "section": "Connect",
+    "text": "Connect\nLinkedIn: linkedin.com/in/pranathi-nagasai\nGitHub: github.com/pranathinagasai"
+  },
+  {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Featured Analytics Projects\nComing soon…"
+    "text": "Tools Used: Python, Power BI, Excel\nOverview: Conducted comprehensive analysis of 2024 job market trends, focusing on gender disparities in hiring practices and the influence of political factors on employment patterns.\nKey Findings: - Analyzed hiring patterns across multiple industries and demographics - Identified significant gender gaps in specific sectors - Examined correlation between political factors and hiring decisions - Developed interactive visualizations to communicate insights\nImpact: Provided data-driven insights for policy recommendations on equitable hiring practices.\n\n\n\n\nTools Used: Python, R, Power BI, Excel\nOverview: Real-time analysis of New York City real estate market to support investment decision-making through data-driven insights.\nKey Components: - Market trend analysis across NYC boroughs - Price prediction modeling using historical data - ROI calculations for different property types - Risk assessment and investment recommendations - Interactive dashboards for stakeholder presentation\nOutcomes: - Developed predictive models with high accuracy for property valuation - Created comprehensive investment guides for different risk profiles - Identified emerging neighborhoods with high growth potential"
+  },
+  {
+    "objectID": "projects.html#data-analytics-projects",
+    "href": "projects.html#data-analytics-projects",
+    "title": "Projects",
+    "section": "",
+    "text": "Tools Used: Python, Power BI, Excel\nOverview: Conducted comprehensive analysis of 2024 job market trends, focusing on gender disparities in hiring practices and the influence of political factors on employment patterns.\nKey Findings: - Analyzed hiring patterns across multiple industries and demographics - Identified significant gender gaps in specific sectors - Examined correlation between political factors and hiring decisions - Developed interactive visualizations to communicate insights\nImpact: Provided data-driven insights for policy recommendations on equitable hiring practices.\n\n\n\n\nTools Used: Python, R, Power BI, Excel\nOverview: Real-time analysis of New York City real estate market to support investment decision-making through data-driven insights.\nKey Components: - Market trend analysis across NYC boroughs - Price prediction modeling using historical data - ROI calculations for different property types - Risk assessment and investment recommendations - Interactive dashboards for stakeholder presentation\nOutcomes: - Developed predictive models with high accuracy for property valuation - Created comprehensive investment guides for different risk profiles - Identified emerging neighborhoods with high growth potential"
+  },
+  {
+    "objectID": "projects.html#professional-projects",
+    "href": "projects.html#professional-projects",
+    "title": "Projects",
+    "section": "Professional Projects",
+    "text": "Professional Projects\n\nMSME Competitiveness Enhancement\nOrganization: International Institute in Geneva\nSupported research and program development for SME competitiveness, quality infrastructure, and market access initiatives.\n\n\nRural Women Economic Empowerment\nOrganization: Government of India - NSS\nAchievement: Increased rural women income by 60% through MSME operations\n\nLed training programs for 500+ rural women\nSecured INR 1,000,000 in funding\nCoordinated enrollment and program materials\n\n\n\nWASH-linked Education Programme\nOrganization: The Art of Living Foundation\nImpact: Delivered 95% reduction in open defecation through integrated education programs\n\nCoordinated capacity building across 6 EU countries and 12 Indian states\nOrganized large-scale training events and workshops"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Home",
+    "title": "Pranathi Nagasai Andhe",
     "section": "",
-    "text": "title: “Home” format: html —\n\nWelcome 👋\nHi, I’m Pranathi Nagasai.\nThis site is my portfolio for AD 688 Web Analytics. Use the menu to visit other pages."
+    "text": "I’m a data-driven professional pursuing a Double Master’s in International Trade & Finance and Business Analytics, with expertise in research, MSME competitiveness, and technical cooperation.\n\n\n\nData Analysis & Visualization: Power BI, Python, R, Excel\nResearch & Documentation: Trade policy, SME development, market analysis\nProject Management: Capacity building, stakeholder engagement\nTechnical Skills: SAP, Salesforce, SharePoint, Financial Modeling\n\n\n\n\n🎓 Completing MSc Applied Business Analytics at Boston University\n🔍 Specializing in financial modeling, risk management, and market data analysis\n🌍 Experience across UN system, government projects, and international NGOs"
+  },
+  {
+    "objectID": "index.html#welcome",
+    "href": "index.html#welcome",
+    "title": "Pranathi Nagasai Andhe",
+    "section": "",
+    "text": "I’m a data-driven professional pursuing a Double Master’s in International Trade & Finance and Business Analytics, with expertise in research, MSME competitiveness, and technical cooperation.\n\n\n\nData Analysis & Visualization: Power BI, Python, R, Excel\nResearch & Documentation: Trade policy, SME development, market analysis\nProject Management: Capacity building, stakeholder engagement\nTechnical Skills: SAP, Salesforce, SharePoint, Financial Modeling\n\n\n\n\n🎓 Completing MSc Applied Business Analytics at Boston University\n🔍 Specializing in financial modeling, risk management, and market data analysis\n🌍 Experience across UN system, government projects, and international NGOs"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "About Me",
     "section": "",
-    "text": "title: “About” format: html —\n\nAbout Me\nHello! 👋 My name is Pranathi Nagasai.\nI’m a graduate student at Boston University, currently taking\nAD 688 Web Analytics.\nThis website is my portfolio where I will share my assignments,\nprojects, and learning progress.\nThanks for visiting!"
+    "text": "I am pursuing a Double Master’s degree in International Trade & Finance (International Institute in Geneva) and Applied Business Analytics (Boston University). My career spans research, documentation, SME competitiveness, and technical cooperation across multicultural environments including the UN system."
+  },
+  {
+    "objectID": "about.html#professional-background",
+    "href": "about.html#professional-background",
+    "title": "About Me",
+    "section": "",
+    "text": "I am pursuing a Double Master’s degree in International Trade & Finance (International Institute in Geneva) and Applied Business Analytics (Boston University). My career spans research, documentation, SME competitiveness, and technical cooperation across multicultural environments including the UN system."
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About Me",
+    "section": "Education",
+    "text": "Education\n\nMSc Applied Business Analytics\nBoston University | 2024 - 2025 | Boston, USA\nFocus: Financial Modelling, Risk Management, Market Data, Python, R, Power BI\n\n\nMasters in International Trade & Finance\nInternational Institute in Geneva | 2023 - 2024 | Geneva, Switzerland\nGPA: 3.4\n\n\nBachelors of Business Administration\nSri Sri University | 2017 - 2020 | Odisha, India\nGPA: 3.3"
+  },
+  {
+    "objectID": "about.html#key-skills",
+    "href": "about.html#key-skills",
+    "title": "About Me",
+    "section": "Key Skills",
+    "text": "Key Skills\n\nData Analysis: Power BI, Python, R, Excel, SAP\nBusiness Tools: Salesforce, SharePoint, MS Office\nResearch & Analytics: Market analysis, trade policy research, financial modeling"
+  },
+  {
+    "objectID": "about.html#languages",
+    "href": "about.html#languages",
+    "title": "About Me",
+    "section": "Languages",
+    "text": "Languages\n\nEnglish (Fluent)\nFrench (Intermediate)\nRussian (Basic)"
+  },
+  {
+    "objectID": "about.html#key-achievements",
+    "href": "about.html#key-achievements",
+    "title": "About Me",
+    "section": "Key Achievements",
+    "text": "Key Achievements\n✨ Increased rural women income by 60% through MSME operations - Government of India\n🌍 Youth Representative at UNDP Reason for Hope Conference 2024, Geneva\n🏆 Recognised 3× International MUN Awards\n📊 Delivered 95% reduction in open defecation through WASH programmes\n💰 Secured INR 1M+ multi-source funding for Training Programs"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Pursuing a Double Master’s in International Trade & Finance and Business Analytics, with expertise in research, documentation, SME competitiveness, and technical cooperation."
+  },
+  {
+    "objectID": "cv.html#summary",
+    "href": "cv.html#summary",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Pursuing a Double Master’s in International Trade & Finance and Business Analytics, with expertise in research, documentation, SME competitiveness, and technical cooperation."
+  },
+  {
+    "objectID": "cv.html#key-achievements",
+    "href": "cv.html#key-achievements",
+    "title": "Curriculum Vitae",
+    "section": "Key Achievements",
+    "text": "Key Achievements\n\nIncreased rural women income by 60% through MSME operations\nYouth Representative at UNDP Conference 2024\n3× International MUN Awards\nSecured INR 1M+ funding for programs"
   }
 ]

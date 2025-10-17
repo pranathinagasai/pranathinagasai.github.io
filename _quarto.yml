@@ -3,16 +3,21 @@ project:
   output-dir: docs
 
 website:
-  title: "Pranathi's Portfolio Website" 
+  title: "Pranathi Nagasai Andhe"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - href: about.qmd
-        text: About
-        
+      - text: "Home"
+        href: index.qmd
+      - text: "About"
+        href: about.qmd
+      - text: "Projects"
+        href: projects.qmd
+      - text: "CV"
+        href: cv.qmd
+      - text: "Contact"
+        href: contact.qmd
 
-
-
-
-
+format:
+  html:
+    theme: cosmo
+    css: styles.css
