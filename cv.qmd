@@ -2,13 +2,27 @@
 title: "Curriculum Vitae"
 ---
 
-## Summary
+## Contact for Full CV
 
-Pursuing a Double Master's in International Trade & Finance and Business Analytics, with expertise in research, documentation, SME competitiveness, and technical cooperation.
+For my complete curriculum vitae, please contact me at:
 
-## Key Achievements
+**📧 Email**: [pranathisai3@gmail.com](mailto:pranathisai3@gmail.com)
 
-- Increased rural women income by 60% through MSME operations
-- Youth Representative at UNDP Conference 2024
-- 3× International MUN Awards
-- Secured INR 1M+ funding for programs
+**🔗 LinkedIn**: [linkedin.com/in/pranathi-nagasai](https://www.linkedin.com/in/pranathi-nagasai)
+
+I'd be happy to share my detailed resume and discuss opportunities in:
+- International Trade & Development
+- Data Analytics & Business Intelligence  
+- Technical Cooperation & Project Management
+
+---
+
+## Quick Summary
+
+**Education**: Double Master's in International Trade & Finance (Geneva) and Business Analytics (Boston University)
+
+**Experience**: UN system, Government projects, International NGOs
+
+**Key Achievement**: Increased rural women income by 60% through MSME operations
+
+**Skills**: Power BI, Python, R, SAP, Salesforce, Financial Modeling
