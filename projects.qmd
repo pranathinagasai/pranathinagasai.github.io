@@ -6,9 +6,15 @@ title: "Projects"
 
 ### Job Market Analysis 2024: Gender Disparities in Hiring & Political Influence
 
-**Tools Used**: Python, Power BI, Excel
+**Tools Used**: Python, Power BI, Excel, Machine Learning, Cloud Analytics
 
-**Overview**: Conducted comprehensive analysis of 2024 job market trends, focusing on gender disparities in hiring practices and the influence of political factors on employment patterns.
+**Overview**: Conducted comprehensive analysis of 2024 job market trends for job seekers, focusing on gender disparities in hiring practices and the influence of political factors on employment patterns.
+
+**Methodology**:
+- Applied machine learning methods to analyze hiring patterns
+- Leveraged cloud analytics platforms for scalable data processing
+- Processed large datasets of job postings and hiring outcomes
+- Statistical analysis of gender representation across industries
 
 **Key Findings**:
 - Analyzed hiring patterns across multiple industries and demographics
@@ -16,7 +22,7 @@ title: "Projects"
 - Examined correlation between political factors and hiring decisions
 - Developed interactive visualizations to communicate insights
 
-**Impact**: Provided data-driven insights for policy recommendations on equitable hiring practices.
+**Impact**: Provided data-driven insights for job seekers and policy recommendations on equitable hiring practices.
 
 ---
 
